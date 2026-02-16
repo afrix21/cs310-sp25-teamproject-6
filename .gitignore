@@ -17,3 +17,6 @@ manifest.mf
 .externalNativeBuild
 .cxx
 local.properties
+# Local config files (do not commit)
+local.properties
+dao.properties
